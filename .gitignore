@@ -1,0 +1,8 @@
+# Anthropic's proprietary binaries — never commit
+deb/
+out/
+rpmbuild/
+x/
+*.deb
+*.rpm
+*.part
